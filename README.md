@@ -39,7 +39,7 @@ I'm an Information Systems graduate passionate about building **scalable, secure
 </a>
 &nbsp;
 <a href="https://medium.com/@antonyessac">
-<img src="[[https://skillicons.dev/icons?i=medium](https://www.google.com/imgres?q=medium%20icon%20photos&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*8WXVVm2poVQkYAh6_Rak5Q.gif&imgrefurl=https%3A%2F%2Fmedium.design%2Fabout-mediums-new-ish-logo-458885b2d8ab&docid=G828U7xRxFjelM&tbnid=3cqji7WDCs7ADM&vet=12ahUKEwj0lozrm8WVAxVT1QIHHZX6JroQnPAOegUInwEQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwj0lozrm8WVAxVT1QIHHZX6JroQnPAOegUInwEQAA)](https://www.google.com/imgres?q=medium%20icon%20photos&imgurl=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fmedium-icon239.logowik.com.webp&imgrefurl=https%3A%2F%2Flogowik.com%2Fmedium-icon-logo-vector-75633.html&docid=h08yRzYgQ1bBfM&tbnid=jQiXz9fNcI28hM&vet=12ahUKEwj0lozrm8WVAxVT1QIHHZX6JroQnPAOegQINhAA..i&w=866&h=650&hcb=2&ved=2ahUKEwj0lozrm8WVAxVT1QIHHZX6JroQnPAOegQINhAA)" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/354057/medium-icon.svg" width="45" height="45"/>
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/profile/antonyessac">
