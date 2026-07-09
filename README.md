@@ -46,7 +46,7 @@ I'm an Information Systems graduate passionate about building **scalable, secure
 <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="45" height="45"/>
 </a>
 &nbsp;
-<a href="antonyessac@gmail.com">
+<a href="https://antonyessac@gmail.com">
 <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" width="45" height="45"/>
 </a>
 
