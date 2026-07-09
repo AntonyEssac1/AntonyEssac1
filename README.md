@@ -35,19 +35,22 @@ I'm an Information Systems graduate passionate about building **scalable, secure
 <p align="left">
 
 <a href="https://www.linkedin.com/in/antony-essac-284705284">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45"/>
 </a>
+
 &nbsp;
+
 <a href="https://medium.com/@antonyessac">
-<img src="https://skillicons.dev/icons?i=medium" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/medium/000000" width="45" height="45"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.hackerrank.com/profile/antonyessac">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45" height="45"/>
 </a>
 
 </p>
-
 
 
 
