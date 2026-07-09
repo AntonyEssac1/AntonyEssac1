@@ -35,22 +35,16 @@ I'm an Information Systems graduate passionate about building **scalable, secure
 <p align="left">
 
 <a href="https://www.linkedin.com/in/antony-essac-284705284">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
 </a>
-
 &nbsp;
-
 <a href="https://medium.com/@antonyessac">
-<img src="https://cdn.simpleicons.org/medium/000000" width="45" height="45"/>
+<img src="[https://skillicons.dev/icons?i=medium](https://www.google.com/imgres?q=medium%20icon%20photos&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*8WXVVm2poVQkYAh6_Rak5Q.gif&imgrefurl=https%3A%2F%2Fmedium.design%2Fabout-mediums-new-ish-logo-458885b2d8ab&docid=G828U7xRxFjelM&tbnid=3cqji7WDCs7ADM&vet=12ahUKEwj0lozrm8WVAxVT1QIHHZX6JroQnPAOegUInwEQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwj0lozrm8WVAxVT1QIHHZX6JroQnPAOegUInwEQAA)" width="45" height="45"/>
 </a>
-
 &nbsp;
-
 <a href="https://www.hackerrank.com/profile/antonyessac">
-<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="45" height="45"/>
 </a>
 
 </p>
-
-
 
