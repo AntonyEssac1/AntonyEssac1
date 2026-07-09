@@ -43,7 +43,7 @@ I'm an Information Systems graduate passionate about building **scalable, secure
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/profile/antonyessac">
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg](https://www.google.com/imgres?q=hackerrank%20icon%20photos&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F40%2FHackerRank_Icon-1000px.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHackerRank_Icon-1000px.png&docid=DnbeqyP_yl84fM&tbnid=2ly1jZxIqHRa7M&vet=12ahUKEwibmdmWnMWVAxVuV6QEHZBkMo0QnPAOegQIPxAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwibmdmWnMWVAxVuV6QEHZBkMo0QnPAOegQIPxAA)" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="45" height="45"/>
 </a>
 
 </p>
