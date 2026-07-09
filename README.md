@@ -12,18 +12,35 @@ I'm an Information Systems graduate passionate about building scalable and secur
 
 ### 🛠️ Tech Stack
 
-* ASP.NET Core
-* C#
-* Entity Framework Core
-* SQL Server
-* RESTful APIs
-* LINQ
-* Git & GitHub
-* HTML, CSS, JavaScript
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+
+</p>
 
 ### 🌐 Connect with Me
 
-* 💼 LinkedIn: www.linkedin.com/in/antony-essac-284705284
-* ✍️ Medium: https://medium.com/@your-username](https://medium.com/@antonyessac/50667033c964
-* 💻 HackerRank: https://www.hackerrank.com/your-username](https://www.hackerrank.com/profile/antonyessac
-* 📧 Email: antonyessac351@gmail.com
+<a href="https://www.linkedin.com/in/antony-essac-284705284">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@antonyessac">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/antonyessac">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="mailto:antonyessac351@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
